@@ -1,13 +1,13 @@
 # Engineering-test
 
 1st question
-Steps to do the task:
+Steps to do the task: [Engineering_test.ipynb]
 
 1. Execute first block of notebook and mention the name of zip folder(Having diffrent csv files)
 2. Then Run another Blocks and We can see the "Combined.csv" file
 
 2nd question
-Steps to do the task:
+Steps to do the task: [api_to_db]
 
 1. First I make a virtual environment to run flask with any compatible version (venv folder)
    . Commands
