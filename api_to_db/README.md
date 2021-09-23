@@ -1,12 +1,3 @@
-# Engineering-test
-
-1st
-Steps to do the task:
-
-1. Execute first block of notebook and mention the name of zip folder(Having diffrent csv files)
-2. Then Run another Blocks and We can see the "Combined.csv" file
-
-2nd
 Steps to do the task:
 
 1. First I make a virtual environment to run flask with any compatible version (venv folder)
